@@ -17,3 +17,9 @@ public class BooK{
     public String getAuthor(){
         return author;
 }
+p   ublic void setPage(int pages){
+        this.pages = pages;
+    }
+    public String getPage(){
+        return pages;
+    }
